@@ -65,11 +65,6 @@ The system uses performance-related features to compare players and support purc
 
 The recommendation logic is based on defined performance metrics and cricket domain knowledge.
 
-> Add the exact similarity algorithm here if you used one, such as cosine similarity or Euclidean distance.
-
-### 5. Application
-
-A Python-based web application provides an interface for interacting with the recommendation system.
 
 ---
 
@@ -104,22 +99,6 @@ Player-Purchase-Recommendation-based-on-Past-Performance/
 │
 └── Procfile
     └── Application deployment configuration
-```
-
----
-
-## 📊 Results
-
-The project combines domain-specific performance metrics and machine learning techniques to support cricket player evaluation and purchase recommendations.
-
-Add your actual results here, including:
-
-- Model accuracy and evaluation metrics
-- Example player recommendations
-- Performance comparisons
-- Screenshots of the web application
-
----
 
 ## 🚀 Future Improvements
 
